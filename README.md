@@ -8,6 +8,7 @@
         &emsp;&emsp;  - C# programming and is use in creating GUI applications <br />
         &emsp;&emsp;  - Object Oriented Progamming in C++ <br />
         &emsp;&emsp;  - Python and its tools for web development and data science <br />
+        &emsp;&emsp;  - SQL creating, maintaning, and fetching data from a database <br />
 
 - 📫 You can reach me through Email at: <br />
        &emsp;&emsp;   - isaacnarz8@gmail.com <br />
