@@ -5,11 +5,11 @@
 - 👀 I’m interested in C++, Python, C#, and SQL/PSQL
  
 - 🌱 I’m currently learning more about: <br />
-        &emsp;  - C# programming and is use in creating GUI applications <br />
-        &emsp;  - Object Oriented Progamming in C++ <br />
-        &emsp;  - Python and its tools for web development and data science <br />
+        &emsp;&emsp;  - C# programming and is use in creating GUI applications <br />
+        &emsp;&emsp;  - Object Oriented Progamming in C++ <br />
+        &emsp;&emsp;  - Python and its tools for web development and data science <br />
 
 - 📫 You can reach me through Email at: <br />
-       &emsp;   - isaacnarz8@gmail.com 
-       &emsp;   - nisaac@ramapo.edu
+       &emsp;&emsp;   - isaacnarz8@gmail.com <br />
+       &emsp;&emsp;   - nisaac@ramapo.edu
 
