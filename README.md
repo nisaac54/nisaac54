@@ -11,6 +11,6 @@
         &emsp;&emsp;  - SQL creating, maintaning, and fetching data from a database <br />
 
 - 📫 You can reach me through Email at: <br />
-       &emsp;&emsp;   - isaacnarz8@gmail.com <br />
+       &emsp;&emsp;   - narzan.isaac@gmail.com <br />
        &emsp;&emsp;   - nisaac@ramapo.edu
 
